@@ -1,0 +1,14 @@
+# virtual envs
+.venv/
+env/
+myenv/
+.venv-1/
+
+# python
+_pycache_/
+*.pyc
+.pytest_cache/
+
+# misc
+.vscode/
+.env
